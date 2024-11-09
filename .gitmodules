@@ -1,0 +1,6 @@
+[submodule "FinanseApp-CommandModel"]
+	path = FinanseApp-CommandModel
+	url = https://github.com/ThereFox/FinanseApp-CommandModel
+[submodule "FinanseApp-QueryModel"]
+	path = FinanseApp-QueryModel
+	url = https://github.com/ThereFox/FinanseApp-QueryModel
